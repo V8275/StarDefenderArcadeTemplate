@@ -1,0 +1,478 @@
+Using pre-set license
+Built from '6000.0/respin/6000.0.59f1-063c55f2fd0f' branch; Version is '6000.0.59f2 (ef281c76c3c1) revision 15673372'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ru' Physical Memory: 49000 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-11-23T12:27:15Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.59f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/UnityProjects/test_task_miniIT
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51138
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/UnityProjects/test_task_miniIT
+D:/UnityProjects/test_task_miniIT
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4268]  Target information:
+
+Player connection [4268]  * "[IP] 192.168.31.95 [Port] 0 [Flags] 2 [Guid] 670979391 [EditorId] 670979391 [Version] 1048832 [Id] WindowsEditor(7,Home-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4268]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 670979391 [EditorId] 670979391 [Version] 1048832 [Id] WindowsEditor(7,Home-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4268]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 670979391 [EditorId] 670979391 [Version] 1048832 [Id] WindowsEditor(7,Home-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4268] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [4268] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.59f2 (ef281c76c3c1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/test_task_miniIT/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 580 2048SP (ID=0x6fdf)
+    Vendor:   ATI
+    VRAM:     8170 MB
+    Driver:   31.0.21923.1000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.59f2/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.003048 seconds.
+- Loaded All Assemblies, in  0.436 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 269 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.667 seconds
+Domain Reload Profiling: 1102ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (175ms)
+		LoadAssemblies (161ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (170ms)
+			TypeCache.Refresh (169ms)
+				TypeCache.ScanAssembly (151ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (667ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (618ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (352ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (138ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.931 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.787 seconds
+Domain Reload Profiling: 1716ms
+	BeginReloadAssembly (209ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (617ms)
+		LoadAssemblies (468ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (271ms)
+			TypeCache.Refresh (200ms)
+				TypeCache.ScanAssembly (178ms)
+			BuildScriptInfoCaches (54ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (787ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (669ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (168ms)
+			ProcessInitializeOnLoadAttributes (422ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4224 unused Assets / (1.4 MB). Loaded Objects now: 4739.
+Memory consumption went from 96.1 MB to 94.8 MB.
+Total: 8.835100 ms (FindLiveObjects: 0.558200 ms CreateObjectMapping: 0.723700 ms MarkObjects: 5.765800 ms  DeleteObjects: 1.786600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9804.894603 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Owl-outline.fontsettings
+  artifactKey: Guid(764557468f4da47339e969188ce0899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Owl-outline.fontsettings using Guid(764557468f4da47339e969188ce0899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f996eb905ae26b548f904d04f02f3599') in 0.0264287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Giggle.fontsettings
+  artifactKey: Guid(f13e6e3605f0d4dddb21a585f95da9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Giggle.fontsettings using Guid(f13e6e3605f0d4dddb21a585f95da9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13f6843c21f466dfe798a8cf69775078') in 0.0018521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Help-fill.fontsettings
+  artifactKey: Guid(4db3e7ad8941645f3b68bb5eb0380ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Help-fill.fontsettings using Guid(4db3e7ad8941645f3b68bb5eb0380ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e26f0142b2e410b1fc39b64bf9a939ef') in 0.0016933 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Dadako
+  artifactKey: Guid(211878f65de36094d87bc02d53f74a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako using Guid(211878f65de36094d87bc02d53f74a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96365d32fdb8dbdf4f4009a1483cd5a6') in 0.0002806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Giggle-outline.fontsettings
+  artifactKey: Guid(983d63cf999a24586aac16340df3d3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Giggle-outline.fontsettings using Guid(983d63cf999a24586aac16340df3d3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8d32c10ffa5edea99f6d85017b90c7f') in 0.0011294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Ant.fontsettings
+  artifactKey: Guid(c6a367dd30b474e989979ad113b37e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Ant.fontsettings using Guid(c6a367dd30b474e989979ad113b37e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de1cac957080859e445bf3a69372e013') in 0.0011563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel
+  artifactKey: Guid(9c0e3c7ba0dee994389f3026121a2597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel using Guid(9c0e3c7ba0dee994389f3026121a2597) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef9c341c775f5bb93a34a9082d7efd3f') in 0.0003774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Cake-outline.fontsettings
+  artifactKey: Guid(f7a3cba5f4e8e4aceb10ff7602d163dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Cake-outline.fontsettings using Guid(f7a3cba5f4e8e4aceb10ff7602d163dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70d5cb5a4a30a90b2af417f55646579e') in 0.0013723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Rope-fill.fontsettings
+  artifactKey: Guid(a42d4f5c670434a6abca775f209cc9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Rope-fill.fontsettings using Guid(a42d4f5c670434a6abca775f209cc9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '733b74f0c9b10b00ed7e3261c9ab9415') in 0.0014668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Ant-fill.fontsettings
+  artifactKey: Guid(bfff23f0861354dabba51fc4e281ea73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Ant-fill.fontsettings using Guid(bfff23f0861354dabba51fc4e281ea73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e50faab630bb099017e4af1ff2eaaa0') in 0.0012767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Jelly-outline.fontsettings
+  artifactKey: Guid(22c4602a1434a4b84878d95fd9268701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Jelly-outline.fontsettings using Guid(22c4602a1434a4b84878d95fd9268701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aac43802ccb48dd87abb0df855f8bc0b') in 0.0010257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/help-monospaced.fontsettings
+  artifactKey: Guid(b71747c7513dc4eb691be9722ad98f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/help-monospaced.fontsettings using Guid(b71747c7513dc4eb691be9722ad98f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bc33e6ff4ebd74e9a510c370336b545') in 0.0013251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Owl.fontsettings
+  artifactKey: Guid(129e29d68372548eda6c8d491c565ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Owl.fontsettings using Guid(129e29d68372548eda6c8d491c565ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2051fa3d38cce3d69038b92273bcc50a') in 0.0016347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.255191 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b704de29f6787abdce999b9b7c2230b') in 0.1104177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Doozy/_Extras/Fonts/Inter-Black SDF.asset
+  artifactKey: Guid(6485a08401c1d9142ba94a40b593b59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Doozy/_Extras/Fonts/Inter-Black SDF.asset using Guid(6485a08401c1d9142ba94a40b593b59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81e31646a9e5c8c6a589181d29767f76') in 0.0170575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Doozy/_Extras/Fonts/Inter-Bold SDF.asset
+  artifactKey: Guid(876dde47537499a4692e35399ea33fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Doozy/_Extras/Fonts/Inter-Bold SDF.asset using Guid(876dde47537499a4692e35399ea33fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '272c3f2346a844fb007ebad3d7bb5333') in 0.0153929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019485 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e03e220f18d72b0b62ec443ab58913e') in 0.0148369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2bddebf890701b5e187c260f656d99c') in 0.0095751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011789 seconds.
+  path: Assets/Doozy/_Extras/Fonts/Ubuntu-Medium SDF.asset
+  artifactKey: Guid(c552b9cad7195cc43b9cf0b1d8fb881e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Doozy/_Extras/Fonts/Ubuntu-Medium SDF.asset using Guid(c552b9cad7195cc43b9cf0b1d8fb881e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37d448288e9be660fb637a315640e896') in 0.0137921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.515649 seconds.
+  path: Assets/Scripts/Abilities/HealthAbility.cs
+  artifactKey: Guid(774c27fc768fca046b7576083503a5a9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/Abilities/HealthAbility.cs using Guid(774c27fc768fca046b7576083503a5a9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '538295a018b28081c277d0484130c15c') in 0.0886002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Rope-fill.fontsettings
+  artifactKey: Guid(a42d4f5c670434a6abca775f209cc9db) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Rope-fill.fontsettings using Guid(a42d4f5c670434a6abca775f209cc9db) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4eedbf273019aa1afb53bccebb3dd60') in 0.0149939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Giggle-outline.fontsettings
+  artifactKey: Guid(983d63cf999a24586aac16340df3d3e8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Giggle-outline.fontsettings using Guid(983d63cf999a24586aac16340df3d3e8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c1d1ed0c86cfcc5b0d8d9dae24eca3b1') in 0.0045233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Jelly-fill.fontsettings
+  artifactKey: Guid(2d79f3ce30a32478582cdc2b5bbb46af) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Jelly-fill.fontsettings using Guid(2d79f3ce30a32478582cdc2b5bbb46af) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'faed97b3f86328fd440fe5d564643cb6') in 0.0057968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Rope.fontsettings
+  artifactKey: Guid(d0593b95516484b7c8e98906234156df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Rope.fontsettings using Guid(d0593b95516484b7c8e98906234156df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ac6eeb203a6800ef4691d29d8662b5f') in 0.0050442 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Jelly-outline.fontsettings
+  artifactKey: Guid(22c4602a1434a4b84878d95fd9268701) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Jelly-outline.fontsettings using Guid(22c4602a1434a4b84878d95fd9268701) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c6bd76e0b8b45aa30e2f1e1d5f6c4f8e') in 0.0052907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Giggle.fontsettings
+  artifactKey: Guid(f13e6e3605f0d4dddb21a585f95da9a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Giggle.fontsettings using Guid(f13e6e3605f0d4dddb21a585f95da9a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd99af8188af9352f45871069fc7f0d58') in 0.0047306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Scripts/MoveableScripts/Player.cs
+  artifactKey: Guid(ab56df64d98159f428f2e2f95857d163) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/MoveableScripts/Player.cs using Guid(ab56df64d98159f428f2e2f95857d163) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8b4bece9499515189425630cd20d1f3e') in 0.0036742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Help.fontsettings
+  artifactKey: Guid(a1b55e86b67ca499b97ef741770a6e96) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Help.fontsettings using Guid(a1b55e86b67ca499b97ef741770a6e96) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c1dd1fd890417255f7ce92a399526e03') in 0.0048948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/help-monospaced.fontsettings
+  artifactKey: Guid(b71747c7513dc4eb691be9722ad98f04) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/help-monospaced.fontsettings using Guid(b71747c7513dc4eb691be9722ad98f04) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f437b54f3853cef3d3cc4905e590889e') in 0.0045925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Cake.fontsettings
+  artifactKey: Guid(f4a9f6b0d6d08498aae83a4e18008799) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Cake.fontsettings using Guid(f4a9f6b0d6d08498aae83a4e18008799) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3639a0e7b94a01e4521fa2c2145fc6d5') in 0.0042645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Ant-fill.fontsettings
+  artifactKey: Guid(bfff23f0861354dabba51fc4e281ea73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Ant-fill.fontsettings using Guid(bfff23f0861354dabba51fc4e281ea73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '178d00b1be367beeb83820e0bc49dba4') in 0.0043345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Scripts/MoveableScripts/MoveableEntity.cs
+  artifactKey: Guid(4379c3feaf81d6d49949cf50ddb31caf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/MoveableScripts/MoveableEntity.cs using Guid(4379c3feaf81d6d49949cf50ddb31caf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '269866fc2eb6c79e9ac591913090cf19') in 0.0035315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Dadako/BitmapFonts/Pixel/Help-fill.fontsettings
+  artifactKey: Guid(4db3e7ad8941645f3b68bb5eb0380ccb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Dadako/BitmapFonts/Pixel/Help-fill.fontsettings using Guid(4db3e7ad8941645f3b68bb5eb0380ccb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1f5081dcf02ec5651f5e43da7e98ba17') in 0.0052769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Prefabs/Bullet.prefab
+  artifactKey: Guid(0bc13028d0d0075459d81810c18fe875) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/Bullet.prefab using Guid(0bc13028d0d0075459d81810c18fe875) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '60c672091f2b1b028bedbedd85d4c76b') in 0.0626413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
