@@ -1,6 +1,6 @@
-# StarDefenderArcadeTemplate
+# Star Defender Arcade Template
 
-StarDefenderArcadeTemplate is a project template for creating an arcade game in the enemy defense genre, developed using Unity. This project provides the basic structure needed to start developing your own game.
+Star Defender Arcade Template is a project template for creating an arcade game in the enemy defense genre, developed using Unity. This project provides the basic structure needed to start developing game.
 
 ## Table of Contents
 
@@ -11,14 +11,8 @@ StarDefenderArcadeTemplate is a project template for creating an arcade game in 
 ## Features
 
 - **Basic project structure**: includes necessary folders for resources and settings.
-- **Unity support**: fully compatible with Unity.
 
 ## Technology Stack
 
 - **Unity Engine**
-- **C#** for scripting game logic
-
-## Usage
-
-- Open the `MainScene` in Unity.
-- Start developing your game using the provided templates and resources.
+- **C#**
