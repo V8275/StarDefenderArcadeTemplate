@@ -6,7 +6,6 @@ Star Defender Arcade Template is a project template for creating an arcade game 
 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Usage](#usage)
 
 ## Features
 
